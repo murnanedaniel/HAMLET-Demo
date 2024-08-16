@@ -10,3 +10,8 @@ Demonstration of simple classification and regression for the HAMLET conference.
 - lightgbm
 - sklearn
 - time
+
+### Installation
+```conda create --name HAMLET --file requirements.txt```
+
+```conda activate HAMLET```
